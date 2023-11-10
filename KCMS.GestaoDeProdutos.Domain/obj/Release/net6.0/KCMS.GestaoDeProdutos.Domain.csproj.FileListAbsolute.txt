@@ -1,0 +1,12 @@
+D:\Fabrica\testes\KCMS\KCMS.GestaoDeProdutos\KCMS.GestaoDeProdutos.Domain\bin\Release\net6.0\KCMS.GestaoDeProdutos.Domain.deps.json
+D:\Fabrica\testes\KCMS\KCMS.GestaoDeProdutos\KCMS.GestaoDeProdutos.Domain\bin\Release\net6.0\KCMS.GestaoDeProdutos.Domain.dll
+D:\Fabrica\testes\KCMS\KCMS.GestaoDeProdutos\KCMS.GestaoDeProdutos.Domain\bin\Release\net6.0\KCMS.GestaoDeProdutos.Domain.pdb
+D:\Fabrica\testes\KCMS\KCMS.GestaoDeProdutos\KCMS.GestaoDeProdutos.Domain\obj\Release\net6.0\KCMS.GestaoDeProdutos.Domain.csproj.AssemblyReference.cache
+D:\Fabrica\testes\KCMS\KCMS.GestaoDeProdutos\KCMS.GestaoDeProdutos.Domain\obj\Release\net6.0\KCMS.GestaoDeProdutos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fabrica\testes\KCMS\KCMS.GestaoDeProdutos\KCMS.GestaoDeProdutos.Domain\obj\Release\net6.0\KCMS.GestaoDeProdutos.Domain.AssemblyInfoInputs.cache
+D:\Fabrica\testes\KCMS\KCMS.GestaoDeProdutos\KCMS.GestaoDeProdutos.Domain\obj\Release\net6.0\KCMS.GestaoDeProdutos.Domain.AssemblyInfo.cs
+D:\Fabrica\testes\KCMS\KCMS.GestaoDeProdutos\KCMS.GestaoDeProdutos.Domain\obj\Release\net6.0\KCMS.GestaoDeProdutos.Domain.csproj.CoreCompileInputs.cache
+D:\Fabrica\testes\KCMS\KCMS.GestaoDeProdutos\KCMS.GestaoDeProdutos.Domain\obj\Release\net6.0\KCMS.GestaoDeProdutos.Domain.dll
+D:\Fabrica\testes\KCMS\KCMS.GestaoDeProdutos\KCMS.GestaoDeProdutos.Domain\obj\Release\net6.0\refint\KCMS.GestaoDeProdutos.Domain.dll
+D:\Fabrica\testes\KCMS\KCMS.GestaoDeProdutos\KCMS.GestaoDeProdutos.Domain\obj\Release\net6.0\KCMS.GestaoDeProdutos.Domain.pdb
+D:\Fabrica\testes\KCMS\KCMS.GestaoDeProdutos\KCMS.GestaoDeProdutos.Domain\obj\Release\net6.0\ref\KCMS.GestaoDeProdutos.Domain.dll

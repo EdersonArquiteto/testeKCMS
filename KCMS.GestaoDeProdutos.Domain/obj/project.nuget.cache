@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "kFnCZW0hPANQp/N9fN+0ZS7AzTYBXvXR2iQhh2jURxStwhVtlRzPNlkTV5qQgG4b976G3aKLsVKGww0MyUHfqQ==",
+  "success": true,
+  "projectFilePath": "D:\\Fabrica\\testes\\KCMS\\KCMS.GestaoDeProdutos\\KCMS.GestaoDeProdutos.Domain\\KCMS.GestaoDeProdutos.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eders\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
+    "C:\\Users\\eders\\.nuget\\packages\\mongodb.bson\\2.22.0\\mongodb.bson.2.22.0.nupkg.sha512",
+    "C:\\Users\\eders\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\eders\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\eders\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.24\\microsoft.windowsdesktop.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\eders\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.24\\microsoft.netcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\eders\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.24\\microsoft.aspnetcore.app.ref.6.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}

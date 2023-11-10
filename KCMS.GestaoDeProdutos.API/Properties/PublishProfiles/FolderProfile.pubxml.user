@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Fabrica\testes\DeployKCMS</_PublishTargetUrl>
+    <History>True|2023-11-10T19:20:01.4783425Z;True|2023-11-10T14:51:07.9741426-03:00;True|2023-11-10T11:07:04.3429793-03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

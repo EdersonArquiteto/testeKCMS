@@ -1,0 +1,15 @@
+D:\Fabrica\testes\KCMS\KCMS.GestaoDeProdutos\KCMS.GestaoDeProdutos.Infra.MongoDB\obj\Debug\net6.0\KCMS.GestaoDeProdutos.Infra.MongoDB.csproj.AssemblyReference.cache
+D:\Fabrica\testes\KCMS\KCMS.GestaoDeProdutos\KCMS.GestaoDeProdutos.Infra.MongoDB\obj\Debug\net6.0\KCMS.GestaoDeProdutos.Infra.MongoDB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fabrica\testes\KCMS\KCMS.GestaoDeProdutos\KCMS.GestaoDeProdutos.Infra.MongoDB\obj\Debug\net6.0\KCMS.GestaoDeProdutos.Infra.MongoDB.AssemblyInfoInputs.cache
+D:\Fabrica\testes\KCMS\KCMS.GestaoDeProdutos\KCMS.GestaoDeProdutos.Infra.MongoDB\obj\Debug\net6.0\KCMS.GestaoDeProdutos.Infra.MongoDB.AssemblyInfo.cs
+D:\Fabrica\testes\KCMS\KCMS.GestaoDeProdutos\KCMS.GestaoDeProdutos.Infra.MongoDB\obj\Debug\net6.0\KCMS.GestaoDeProdutos.Infra.MongoDB.csproj.CoreCompileInputs.cache
+D:\Fabrica\testes\KCMS\KCMS.GestaoDeProdutos\KCMS.GestaoDeProdutos.Infra.MongoDB\bin\Debug\net6.0\KCMS.GestaoDeProdutos.Infra.MongoDB.deps.json
+D:\Fabrica\testes\KCMS\KCMS.GestaoDeProdutos\KCMS.GestaoDeProdutos.Infra.MongoDB\bin\Debug\net6.0\KCMS.GestaoDeProdutos.Infra.MongoDB.dll
+D:\Fabrica\testes\KCMS\KCMS.GestaoDeProdutos\KCMS.GestaoDeProdutos.Infra.MongoDB\bin\Debug\net6.0\KCMS.GestaoDeProdutos.Infra.MongoDB.pdb
+D:\Fabrica\testes\KCMS\KCMS.GestaoDeProdutos\KCMS.GestaoDeProdutos.Infra.MongoDB\bin\Debug\net6.0\KCMS.GestaoDeProdutos.Domain.dll
+D:\Fabrica\testes\KCMS\KCMS.GestaoDeProdutos\KCMS.GestaoDeProdutos.Infra.MongoDB\bin\Debug\net6.0\KCMS.GestaoDeProdutos.Domain.pdb
+D:\Fabrica\testes\KCMS\KCMS.GestaoDeProdutos\KCMS.GestaoDeProdutos.Infra.MongoDB\obj\Debug\net6.0\KCMS.GestaoDeProdutos.Infra.MongoDB.csproj.CopyComplete
+D:\Fabrica\testes\KCMS\KCMS.GestaoDeProdutos\KCMS.GestaoDeProdutos.Infra.MongoDB\obj\Debug\net6.0\KCMS.GestaoDeProdutos.Infra.MongoDB.dll
+D:\Fabrica\testes\KCMS\KCMS.GestaoDeProdutos\KCMS.GestaoDeProdutos.Infra.MongoDB\obj\Debug\net6.0\refint\KCMS.GestaoDeProdutos.Infra.MongoDB.dll
+D:\Fabrica\testes\KCMS\KCMS.GestaoDeProdutos\KCMS.GestaoDeProdutos.Infra.MongoDB\obj\Debug\net6.0\KCMS.GestaoDeProdutos.Infra.MongoDB.pdb
+D:\Fabrica\testes\KCMS\KCMS.GestaoDeProdutos\KCMS.GestaoDeProdutos.Infra.MongoDB\obj\Debug\net6.0\ref\KCMS.GestaoDeProdutos.Infra.MongoDB.dll
